@@ -1,6 +1,3 @@
-## Acesse a aplicação
-- 
-
 ### Instalação e Configuração
 
 #### 1. Clone o repositório:
@@ -30,9 +27,6 @@ docker compose up
 
 
 ---
-
-## Acesse the applicattion
-- 
 
 ### Installation and Configuration
 
